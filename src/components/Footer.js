@@ -3,9 +3,9 @@ import React from 'react'
 class Footer extends React.Component {
   render(){
     return(
-      <div className="Footer">
-        Footer
-      </div>
+      <footer style={{textAlign: 'center'}}>
+  				<h3>仿 cnode 社区</h3>
+  		</footer>
     )
   }
 }
